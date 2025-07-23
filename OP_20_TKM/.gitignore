@@ -141,7 +141,3 @@ fixdb/
 /.vs
 .idea
 
-build
-debug
-yarn.lock
-abis/

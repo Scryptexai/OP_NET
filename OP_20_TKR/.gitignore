@@ -140,8 +140,3 @@ tools/db/dump.rdb
 fixdb/
 /.vs
 .idea
-
-build
-debug
-yarn.lock
-abis/
